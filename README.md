@@ -1,1 +1,1 @@
-# python-karar-yapilari
+# python-ogrenme-seruveni
